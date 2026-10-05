@@ -1,7 +1,5 @@
 # Meus Certificados
 
-Pagina web para centralizar e exibir certificados em formato PDF.
-
 ## Objetivo
 
 Reunir em um unico lugar os certificados adquiridos ao longo da jornada academica e profissional. Cada certificado e exibido como um card com uma miniatura da primeira pagina do PDF.
